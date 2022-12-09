@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",AMC
+http://red.ipfox.org:8080/Karam2022/Karam2023/49335?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.ibb.co/sCN7q6G/download.png" group-title="Undefined",AMC Break
+http://red.ipfox.org:8080/Karam2022/Karam2023/49313?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",AMC Crime
+http://red.ipfox.org:8080/osama2022/osama2023/49310?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN HD
+http://red.ipfox.org:8080/osama2022/osama2023/49328?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN Movies HD
+http://red.ipfox.org:8080/osama2022/osama2023/49334?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN White HD
+http://red.ipfox.org:8080/osama2022/osama2023/49327?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",AXN PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/axn.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BBC Entertainment
+http://red.ipfox.org:8080/osama2022/osama2023/49241?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",BBC World News
+http://red.ipfox.org:8080/osama2022/osama2023/49242?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="http://hostengine.live:25461/images/Portugal.png" group-title="Undefined",AXN BLACK
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58533?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Bloomberg
+http://red.ipfox.org:8080/osama2022/osama2023/49245?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Biggs
+http://red.ipfox.org:8080/osama2022/osama2023/49297?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",CANAL PANDA HD
+http://cineapp.org:8000/Fernando/Fernando/8113?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",CINE MUNDO
+http://cineapp.org:8000/Fernando/Fernando/3422?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",CNBC
+http://red.ipfox.org:8080/osama2022/osama2023/49244?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_11_HN_logo_2010.png" group-title="Undefined",Canal 11 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159589?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Canal Hollywood
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/canal.hollywood.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Cartoon Network
+http://red.ipfox.org:8080/osama2022/osama2023/49298?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Cinemundo
+http://red.ipfox.org:8080/osama2022/osama2023/49338?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",DISNEY CHANNEL
+http://cineapp.org:8000/Fernando/Fernando/2368?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Discovery Channel
+http://red.ipfox.org:8080/osama2022/osama2023/49323?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport",Eleven Sports 1 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159576?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.nicepng.com/png/detail/140-1402045_eleven-sports-eleven-sports-2-logo.png" group-title="Sport",Eleven Sports 2 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159577?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-3-hd.png" group-title="Sport",Eleven Sports 3 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159578?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport",Eleven Sports 4 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159579?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport",Eleven Sports 5 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159580?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Sport",Eleven Sports 6 HD
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159581?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX
+http://red.ipfox.org:8080/osama2022/osama2023/49332?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX CRIME
+http://cineapp.org:8000/Fernando/Fernando/2314?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX Comedy
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.comedy.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX Crime PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.crime.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX Life PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.life.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",FOX Movies
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/fox.movies.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Fuel TV
+http://red.ipfox.org:8080/osama2022/osama2023/49312?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Hollywood HD
+http://red.ipfox.org:8080/osama2022/osama2023/49337?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Sport",NBA TV
+http://red.ipfox.org:8080/osama2022/osama2023/49356?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP 1 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.1.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP 2 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.2.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP 3 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.3.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",RTP International
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/rtp.inter.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/OigvUdJ.png" group-title="Undefined",SIC (1080p)
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",SyFy
+http://red.ipfox.org:8080/osama2022/osama2023/49326?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TLC
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tlc.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCine 1 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvcine.1.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCine 2 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvcine.2.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCine Action
+http://red.ipfox.org:8080/osama2022/osama2023/49339?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCine Edition
+http://red.ipfox.org:8080/osama2022/osama2023/49341?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCine Emotion
+http://red.ipfox.org:8080/osama2022/osama2023/49340?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVCine Top
+http://red.ipfox.org:8080/osama2022/osama2023/49342?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI 24 PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvi.24.pt.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",TVI PT
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/tvi.pt.m3u8?checkedby:iptvcat.com
